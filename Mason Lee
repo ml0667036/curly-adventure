@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+  </body>
+</html>
+<h1>To Do List</h1>
+<style>
+  h1{
+    font-family: sans-serif;
+    color:rgb(80,20,80);
+    text-align: center;
+    font-size: 80px;
+  }
+</style>
+<div>
+
+  <button><strong>1= Oc</strong></button>
+</div>
+<div>
+</div>
+<div>
+  <button><strong>3 </strong></button>
+  <style>
+    button{
+      background-color: aqua;
+      font-size: 40px;
+    }
+  </style>
+  <div>
+  </div>
+  <button>WEEE Pipy</button>
+  <style>
+    h2{
+      font-family:monospace;
+      color:black;
+      font-size:50px;
+      background-color: bisque;
+      border-bottom-color: black;
+      border-bottom-style: double;
+      border-bottom-width: thick;
+      text-align: center;
+    }
+  </style>
+  <h2><strong>FOOTBALL</strong></h2>
+  <dive>
+  </dive>
+  <h2>ONS</h2>
+  <dive>
+  </dive>
+  <h2><strong>SARA</strong></h2>
